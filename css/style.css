@@ -3,6 +3,9 @@
   border-radius: 0.5em; /*Adds border radius to parent div*/
   width: 400px; /*Adds width to parent div*/
   height: 300px; /*Adds height to parent div*/
+  display: flex; /*Adds display flex to affect child div*/
+  align-items: center; /*Centres child div along the cross axis*/
+  justify-content: space-around; /*Centres child div along the main axis*/
 }
 
 .child {
