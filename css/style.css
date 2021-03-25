@@ -1,6 +1,8 @@
 .parent {
   border: 2px solid #77a6b6; /*Adds border to parent div*/
   border-radius: 0.5em; /*Adds border radius to parent div*/
+  width: 400px; /*Adds width to parent div*/
+  height: 300px; /*Adds height to parent div*/
 }
 
 .child {
