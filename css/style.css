@@ -6,4 +6,6 @@
 }
 
 .child {
+  background-color: #4d7298; /*Adds background color to child div*/
+  color: #fff; /*Adds color to child div*/
 }
